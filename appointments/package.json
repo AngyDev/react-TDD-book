@@ -1,0 +1,22 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "react TDD app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngyDev/react-TDD-book.git"
+  },
+  "author": "Angela Busato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngyDev/react-TDD-book/issues"
+  },
+  "homepage": "https://github.com/AngyDev/react-TDD-book#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
